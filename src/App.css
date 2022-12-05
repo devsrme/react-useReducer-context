@@ -1,0 +1,20 @@
+.wraper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.counter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background-color: rgb(224, 153, 153);
+  padding: 20px;
+  font-size: 20px;
+}
+
+button {
+  background-color: red;
+  color: white;
+  padding: 5px;
+}
